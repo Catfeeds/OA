@@ -148,7 +148,7 @@
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
       <td width="100">流水号</td>
-								<td>姓名</td>
+								<td width="100">姓名</td>
 									<td width="60">性别</td>
 									<td width="120">手机号码</td>
 									<td width="120">入职时间</td>

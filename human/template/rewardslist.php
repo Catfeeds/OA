@@ -111,7 +111,7 @@
 <table  class="table table-bordered table-hover" width="100%">
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
-      <td>单位员工</td>
+      <td width="100">单位员工</td>
 									<td width="100">奖惩项目</td>
 									<td width="100">奖惩日期</td>
 									<td width="100">工资月份</td>

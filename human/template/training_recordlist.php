@@ -112,11 +112,11 @@
 <table  class="table table-bordered table-hover" width="100%">
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
-      <td>受培训人员</td>
-									<td width="100">培训费用</td>
-									<td width="100">发布日期</td>
-									<td width="100">发布人</td>
-									<td width="100">操作</td>
+      <td width="100">受培训人员</td>
+		<td width="100">培训费用</td>
+		<td width="100">发布日期</td>
+		<td width="100">发布人</td>
+		<td width="100">操作</td>
    </tr>
 <?php
 foreach ($result as $row) {

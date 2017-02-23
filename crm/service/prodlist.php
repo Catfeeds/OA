@@ -109,7 +109,7 @@ E.onDOMReady(function() {
 	<tr>
       <td width="30" align="center" nowrap class="TableHeader">选项</td>
       <td width="130" align="center" class="TableHeader">产品编号</td>
-      <td align="left" class="TableHeader">产品名称</td>
+      <td width="120" align="left" class="TableHeader">产品名称</td>
       <td width="120" align="center" class="TableHeader">产品分类</td>
       <td width="80" align="center" class="TableHeader">产品价格</td>
       <td width="80" align="center" class="TableHeader">发布人</td>

@@ -148,7 +148,7 @@
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
       <td width="100">流水号</td>
-									<td>评定对象</td>
+									<td width="100">评定对象</td>
 									<td width="100">批准人</td>
 									<td width="100">获取职称</td>
 									<td  width="100">获取方式</td>

@@ -148,7 +148,7 @@
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
       <td width="100">流水号</td>
-								<td>单位员工</td>
+								<td width="120">单位员工</td>
 									<td width="120">技能名称</td>
 									<td width="120">级别</td>
 									<td width="120">发证日期</td>

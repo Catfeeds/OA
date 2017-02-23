@@ -113,7 +113,7 @@
 <table  class="table table-bordered table-hover" width="100%">
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
-      <td>计划主题</td>
+      <td width="100">计划主题</td>
       <td width="100">开始时间</td>
 	  <td width="100">结束时间</td>
 	  <td width="100">完成时间</td>

@@ -95,7 +95,7 @@
 <table  class="table table-bordered table-hover" width="100%">
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
-      <td>主题</td>
+      <td width="140">主题</td>
       <td width="140">发布时间</td>
 	  <td width="100">发布人</td>
 	  <td width="100">操作</td>

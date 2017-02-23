@@ -124,7 +124,7 @@
 <table  class="table table-bordered table-hover" width="100%">
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
-      <td>会议名称</td>
+      <td width="100">会议名称</td>
       <td width="80">申请人</td>
 	  <td width="100">申请时间</td>
 	  <td width="150">会议时间</td>

@@ -123,16 +123,16 @@
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
       <td width="120">培训编号</td>
-									<td>培训名称</td>
-									<td width="100">培训类型</td>
-									<td width="80">培训形式</td>
-									<td width="100">负责人</td>
-									<td width="80">培训预算</td>
-									<td width="60">状态</td>
-									<td width="60">审批人</td>
-									<td width="60">发布人</td>
-									<td width="80">发布日期</td>
-									<td width="130">操作</td>
+	<td width="100">培训名称</td>
+	<td width="100">培训类型</td>
+	<td width="80">培训形式</td>
+	<td width="100">负责人</td>
+	<td width="80">培训预算</td>
+	<td width="60">状态</td>
+	<td width="60">审批人</td>
+	<td width="60">发布人</td>
+	<td width="80">发布日期</td>
+	<td width="130">操作</td>
    </tr>
 <?php
 foreach ($result as $row) {

@@ -122,14 +122,14 @@
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
       <td width="100">合同编号</td>
-									<td>单位员工</td>
-									<td width="120">合同类型</td>
-									<td width="100">合同状态</td>
-									<td width="120">合同签订日期</td>
-									<td width="120">合同到期日期</td>
-									<td width="100">签约次数</td>
-									<td width="100">发布人</td>
-									<td width="120">操作</td>
+	<td  width="120">单位员工</td>
+	<td width="120">合同类型</td>
+	<td width="100">合同状态</td>
+	<td width="120">合同签订日期</td>
+	<td width="120">合同到期日期</td>
+	<td width="100">签约次数</td>
+	<td width="100">发布人</td>
+	<td width="120">操作</td>
    </tr>
 <?php
 foreach ($result as $row) {

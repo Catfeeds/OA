@@ -119,7 +119,7 @@
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
       <td width="120">任务编号</td>
-      <td >任务名称</td>
+      <td width="120">任务名称</td>
       <td width="160">任务周期</td>
       <td width="190">任务进度</td>
       <td width="90">发起人</td>

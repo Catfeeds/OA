@@ -148,7 +148,7 @@
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
       <td width="100">流水号</td>
-									<td>被关怀员工</td>
+									<td width="100">被关怀员工</td>
 									<td width="100">关怀类型</td>
 									<td width="100">关怀开支费用</td>
 									<td width="120">关怀日期</td>

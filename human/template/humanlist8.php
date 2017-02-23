@@ -148,7 +148,7 @@
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
       <td width="100">流水号</td>
-									<td>复职人员</td>
+									<td width="100">复职人员</td>
 									<td width="100">复职类型</td>
 									<td width="120">申请日期</td>
 									<td width="100">担任职务</td>

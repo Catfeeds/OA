@@ -101,7 +101,7 @@
 <table  class="table table-bordered table-hover" width="100%">
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
-      <td>主题</td>
+      <td width="80">主题</td>
 	  <td width="80">阅读</td>
 	  <td width="80">状态</td>
       <td width="100">发布人</td>
