@@ -115,7 +115,7 @@
 <table  class="table table-bordered table-hover" width="100%">
       <tr class="editThead" align="center">
       <td width="40"><input type="checkbox" value="1" name="chkall" onClick="check_all(this)" /></td>
-      <td>公司名称</td>
+      <td width="100">公司名称</td>
       <td width="100">联系人</td>
 	  <td width="100">性别</td>
 	  <td width="100">职位</td>
