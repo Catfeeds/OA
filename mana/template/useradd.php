@@ -163,13 +163,15 @@ function toggle2(targetid){
       <input type="radio" name="keytype" id="keytype" value="1" <? if ($user['keytype']=="1"){?>checked="checked" <? } ?> class="checkbox" onClick="toggle2('div1')" />允许 <input type="radio" name="keytype" id="keytype" value="2" <? if ($user['keytype']=="2"){?>checked="checked" <? } ?> class="checkbox"  onclick="toggle('div1')" />不允许   
   	  </td>
   	</tr>
-     <tr  id="div1">
-  		<td nowrap class="TableContent">设置人员：</td>
+     <tr  >
+  		<td nowrap class="TableContent" width="100">设置人员：</td>
   	  <td class="TableData" colspan="3">
-	  <?php
-	  get_pubuser(2,"keytypeuser",$user['keytypeuser'],"+选择人员",60,4)
-	  ?>
-<br>设置可管理的下属人员，设置成功后这些人员发布的信息将会被“<?php echo $user['name']?>”看到
+		<div id="div1">
+		  <?php
+		  get_pubuser(2,"keytypeuser",$user['keytypeuser'],"+选择人员",60,4)
+		  ?>
+		<br>设置可管理的下属人员，设置成功后这些人员发布的信息将会被“<?php echo $user['name']?>”看到
+		<div>
   	  </td>
   	</tr>
 	
